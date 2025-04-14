@@ -1,8 +1,8 @@
 import streamlit as st
 
 
-st.title("Page 2")
-st.write("**Page 2**")
+st.title("Page 1")
+st.write("**Page 1**")
 
 st.subheader("링크")
 st.page_link("06_paging.py", label="Home", icon='🏠')
